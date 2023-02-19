@@ -2,7 +2,7 @@
 'Snake_X' is a Game Development Project scripted in Python Programming Language using 'pygame' library.
 
 # THEME
-There are 3-Levels ('Normal','Hard','Extreme').#
+There are 3-Levels ('Normal','Hard','Extreme').<br>
 You have to control a snake and help it collect the Fruit.#
 1 Fruit is equal to 10 Score Points.#
 Game is Over, if Snake collides with the 'Outer-Wall' or 'Snake-Body'.#
