@@ -31,10 +31,15 @@ The Goal of the game is to collect Fruits.
 <h2>SCREENSHOTS</h2>
 <br>
 ![Main_Menu](https://raw.githubusercontent.com/itsabhijeetsingh/snake-x/main/image/main_menu.jpg)
+<br>
 ![Gameplay](https://raw.githubusercontent.com/itsabhijeetsingh/snake-x/main/image/gameplay.jpg)
+<br>
 ![Pause](https://raw.githubusercontent.com/itsabhijeetsingh/snake-x/main/image/pause.jpg)
+<br>
 ![Gameover](https://raw.githubusercontent.com/itsabhijeetsingh/snake-x/main/image/gameover.jpg)
+<br>
 ![Settings](https://raw.githubusercontent.com/itsabhijeetsingh/snake-x/main/image/settings.jpg)
+<br>
 ![High_Score](https://raw.githubusercontent.com/itsabhijeetsingh/snake-x/main/image/hs.jpg)
 <hr>
 <h2>ATTACHMENTS</h2>
