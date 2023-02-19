@@ -47,5 +47,5 @@ correct_path_Tree >>><br>
 -----sound_menu_bg.wav<br>
 -----sound_select.mp3<br>
 ---snake_.py<br>
---> correct path : '<directory_name>/sound_pack/<sound_file_name>'
+--> correct path : 'directory_name/sound_pack/sound_file_name'
 <hr>
