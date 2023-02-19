@@ -28,6 +28,16 @@ Right-Key : To Turn RIGHT-SIDE
 <br>
 The Goal of the game is to collect Fruits.
 <hr>
+<h2>SCREENSHOTS</h2>
+<br>
+<img scr='https://raw.githubusercontent.com/itsabhijeetsingh/snake-x/main/image/main_menu.jpg', alt='Main_Menu'><br>
+<img scr='https://raw.githubusercontent.com/itsabhijeetsingh/snake-x/main/image/gameplay.jpg', alt='Gameplay'><br>
+<img scr='https://raw.githubusercontent.com/itsabhijeetsingh/snake-x/main/image/pause.jpg', alt='Pause'><br>
+<img scr='https://raw.githubusercontent.com/itsabhijeetsingh/snake-x/main/image/gameover.jpg', alt='Gameover'><br>
+<img scr='https://raw.githubusercontent.com/itsabhijeetsingh/snake-x/main/image/settings.jpg', alt='Settings'><br>
+<img scr='https://raw.githubusercontent.com/itsabhijeetsingh/snake-x/main/image/hs.jpg', alt='High_Score'><br>
+
+<hr>
 <h2>ATTACHMENTS</h2>
 <br>
 You can find the Source-Code and can have .exe file in the 'snake-x' resporatory.
