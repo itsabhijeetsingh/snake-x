@@ -1,6 +1,6 @@
 'Snake_X' is a Game Development Project scripted in Python Programming Language using 'pygame' library.
 <hr>
-<h5>THEME
+<h2>THEME</h2>
 <br>
 There are 3-Levels ('Normal','Hard','Extreme').
 <br>
@@ -10,7 +10,7 @@ You have to control a snake and help it collect the Fruit.
 <br>
 Game is Over, if Snake collides with the 'Outer-Wall' or 'Snake-Body'.
 <hr>
-## CONTROL
+<h2>CONTROL</h2>
 <br>
 You can control the Snake using the Arrow-Keys
 <br>
@@ -22,15 +22,15 @@ Left-Key  : To Turn LEFT-SIDE
 <br>
 Right-Key : To Turn RIGHT-SIDE
 <hr>
-## GOAL
+<h2>GOAL</h2>
 <br>
 The Goal of the game is to collect Fruits.
 <hr>
-## ATTACHMENTS
+<h2>ATTACHMENTS</h2>
 <br>
 You can find the Source-Code and can have .exe file in the 'snake-x' resporatory.
 <hr>
-## ATTENTION!!!
+<h2>ATTENTION!!!</h2>
 <br>
 You might find some trouble while running the program. 
 <br>
