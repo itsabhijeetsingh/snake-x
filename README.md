@@ -1,6 +1,6 @@
 'Snake_X' is a Game Development Project scripted in Python Programming Language using 'pygame' library.
 <hr>
-<h1>THEME
+<h5>THEME
 <br>
 There are 3-Levels ('Normal','Hard','Extreme').
 <br>
