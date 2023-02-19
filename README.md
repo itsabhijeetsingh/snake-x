@@ -38,8 +38,8 @@ Remember the following:
 <br>
 correct_path_Tree >>><br>
 -directory_name<br>
-  -sound_pack<br>
-    -sound_bg.mp3<br>
+&ensb  -sound_pack<br>
+&emsb    -sound_bg.mp3<br>
     -sound_bg.wav<br>
     -sound_character_death.mp3<br>
     -sound_item_collect.mp3<br>
