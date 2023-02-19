@@ -1,3 +1,5 @@
+<h2>SNAKE_X</h2>
+<br>
 'Snake_X' is a Game Development Project scripted in Python Programming Language using 'pygame' library.
 <hr>
 <h2>THEME</h2>
