@@ -38,14 +38,14 @@ Remember the following:
 <br>
 correct_path_Tree >>><br>
 -directory_name<br>
-&ensb  -sound_pack<br>
-&emsb    -sound_bg.mp3<br>
-    -sound_bg.wav<br>
-    -sound_character_death.mp3<br>
-    -sound_item_collect.mp3<br>
-    -sound_item_collect_wav<br>
-    -sound_menu_bg.wav<br>
-    -sound_select.mp3<br>
-  -snake_.py<br>
+---sound_pack<br>
+-----sound_bg.mp3<br>
+-----sound_bg.wav<br>
+-----sound_character_death.mp3<br>
+-----sound_item_collect.mp3<br>
+-----sound_item_collect_wav<br>
+-----sound_menu_bg.wav<br>
+-----sound_select.mp3<br>
+---snake_.py<br>
 --> correct path : '<directory_name>/sound_pack/<sound_file_name>'
 <hr>
