@@ -18,4 +18,23 @@ Right-Key : To Turn RIGHT-SIDE
 The Goal of the game is to collect Fruits.
 
 # ATTACHMENTS
-You can find the Source-Code and can have .exe file in the 'snake-x' reporatory. 
+You can find the Source-Code and can have .exe file in the 'snake-x' resporatory.
+
+# ATTENTION!!!
+You might find some trouble while running the program. 
+Remember the following:
+1] Save the .py file and sound_pack folder in one directory.
+2] Check-out for the sound-path in load() in the source code.
+correct_path_Tree >>> 
+-directory_name
+  -sound_pack
+    -sound_bg.mp3
+    -sound_bg.wav
+    -sound_character_death.mp3
+    -sound_item_collect.mp3
+    -sound_item_collect_wav
+    -sound_menu_bg.wav
+    -sound_select.mp3
+  -snake_.py
+
+--> correct path : '<directory_name>/sound_pack/<sound_file_name>'
